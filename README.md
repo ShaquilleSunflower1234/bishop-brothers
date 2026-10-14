@@ -6,6 +6,10 @@ Extract the ZIP, open BishopBrothers.exe, plug in your Xbox 360 USB, select the 
 
 Free to use. Donations are optional and never unlock app features. No Horizon or separate signing setup is required.
 
+### Support Bishop Brothers
+
+If the app helped you, you can optionally support the project through **[Cash App — $Baileyconsoles](https://cash.app/$Baileyconsoles)**. The app remains completely free.
+
 Open **BishopBrothers.exe** with your Xbox 360 USB plugged in. The app scans connected Windows drives that have a Content folder and finds Fight Night Champion boxer saves inside the numbered Xbox folders. Choose the profile/save in the list and click **Add Bishops**. It handles the numbered file path for you.
 
 For a copy already on your PC, drop the entire **Content folder** into the window, or click **Use a copied folder** and select the USB root, Content folder, or parent of your copied Xbox folder. You can also drop a folder onto the executable to scan it at launch. Ordinary native Windows Content folders are supported; older Xbox USB storage stored inside a FATX image is not supported.
