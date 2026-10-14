@@ -1,0 +1,30 @@
+BISHOP BROTHERS 1.0.0 — FREE WINDOWS APP
+
+1. Extract the ZIP and open BishopBrothers.exe.
+2. Plug in your Xbox 360 thumb drive. The app finds your boxer save.
+   Or drop your copied Content folder into the app.
+3. Select your profile/save if more than one appears.
+4. Click Add Bishops and wait for Done.
+
+The app backs up, merges, signs, verifies, and puts the save back automatically.
+No Horizon, signing setup, or payment is needed.
+
+Afterward: safely eject USB. On Xbox 360, sign into the same account and open
+Settings > System > Storage > USB > Games and Apps > Fight Night Champion.
+Copy Fight Night Champion Boxers to Cloud Saved Games. Wait for upload.
+On Xbox One, launch the game using the same account and let it sync.
+
+You need an EXISTING Fight Night Champion Boxers save. If missing, edit an
+available boxer in the game, save, then copy that boxer save to USB on Xbox 360.
+Champion Mode completion is not required just to create a boxer-edit save.
+
+Backups: click Open backups in the app.
+Your original save is kept in each export's Original backup folder.
+The app works locally and does not upload saves or collect payments.
+
+Supported: the observed native Windows Content-folder/save layout described
+in README.md. Older FATX image USB formats and unknown save schemas are not
+supported. The owner reported success in an Xbox test on October 14, 2026;
+other setups may differ. Keep your backup until gameplay checks pass.
+
+Independent community tool; not affiliated with EA, Microsoft, or Xbox.
