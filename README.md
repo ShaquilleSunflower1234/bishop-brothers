@@ -1,5 +1,9 @@
 # Bishop Brothers 1.0.0 — Windows
 
+**[Download Bishop Brothers for Windows](https://github.com/ShaquilleSunflower1234/bishop-brothers/releases/latest/download/BishopBrothers-1.0.0-Windows.zip)** · [Release page and checksums](https://github.com/ShaquilleSunflower1234/bishop-brothers/releases/latest)
+
+Extract the ZIP, open BishopBrothers.exe, plug in your Xbox 360 USB, select the detected save, and click **Add Bishops**.
+
 Free to use. Donations are optional and never unlock app features. No Horizon or separate signing setup is required.
 
 Open **BishopBrothers.exe** with your Xbox 360 USB plugged in. The app scans connected Windows drives that have a Content folder and finds Fight Night Champion boxer saves inside the numbered Xbox folders. Choose the profile/save in the list and click **Add Bishops**. It handles the numbered file path for you.
