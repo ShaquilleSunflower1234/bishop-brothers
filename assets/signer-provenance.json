@@ -1,0 +1,9 @@
+{
+  "source_repository": "https://github.com/unknownv2/horizon-v2",
+  "commit": "ad518325cef804ad3805ff08824c4fded94f9570",
+  "source_path": "Horizon/Server/Config.cs",
+  "source_blob": "e64ed1926ca28942dddc32cefa898017ffba591a",
+  "license": "Unlicense",
+  "asset_sha256": "7c78be88ac35565ab688164efb195b49608377a281644e58773ac8d1271aa493",
+  "contents": "Only publicly published CON signing parameters and certificate, in a minimal keyvault-shaped container. No user or device keyvault was extracted."
+}
